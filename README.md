@@ -1,4 +1,4 @@
 # Aitor
-# Victor
+# Victor Bethencourt Barrera
 # Andres
 # Jonay Puerta González
