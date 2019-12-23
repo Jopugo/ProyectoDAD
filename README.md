@@ -1,4 +1,4 @@
-# Aitor
+# Aitor del Castillo
 # Victor Bethencourt Barrera
-# Andres
+# Andrés Chávez González
 # Jonay Puerta González
